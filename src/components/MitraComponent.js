@@ -16,13 +16,13 @@ const MitraComponent = () => {
               </div>
               <div className="organized-image image col-lg-9 col-md-8 text-lg-start text-md-start text-center">
                 <img
-                  src="./logo/warmadewa.png"
+                  src="./assets/logo/warmadewa.png"
                   href="https://www.iicyms.or.id/"
                   className=" col-6 image-iysa"
                   alt="gallery"
                 />
                 <img
-                  src="./logo/unikom.WebP"
+                  src="./assets/logo/unikom.WebP"
                   className="ms-1 col-6 image-udayana"
                   alt="gallery"
                 />
