@@ -22,7 +22,7 @@ const Program = () => {
                   <div className="service-details" data-wow-delay=".1s">
                     <div className="service-head">
                       <img
-                        src="./logo/LOGOBISF.png"
+                        src="./assets/logo/LOGOBISF.png"
                         className="img-fluid"
                         alt="logo"
                       ></img>
@@ -40,7 +40,7 @@ const Program = () => {
                   <div className="service-details" data-wow-delay=".1s">
                     <div className="service-head">
                       <img
-                        src="./logo/OS2MN.png"
+                        src="./assets/logo/OS2MN.png"
                         className="img-fluid"
                         alt="logo"
                       ></img>
