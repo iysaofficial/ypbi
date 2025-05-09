@@ -1,0 +1,64 @@
+/*-------------------------- Hero Start --------------------------*/
+
+
+.hero-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 10vh;
+  background: #f5fafe;
+
+}
+
+.hero-section .btn:hover {
+  box-shadow: 8px 8px #99bdff;
+  transition: .3s;
+
+}
+
+
+@media (max-width:1440px) {
+  .hero-section {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+}
+
+.hero-section .hero-content h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.hero-section .hero-content a {
+  margin-top: 2rem;
+}
+
+.hero-section .hero-content p {
+  text-align: justify;
+  font-size: 1.1rem;
+  margin-top: 3rem;
+}
+
+
+@media (max-width: 768px) {
+  .hero-section .hero-content h1 {
+    font-size: 2rem;
+  }
+
+  .hero-section .hero-content p {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width:426px) {
+
+  .hero-section .hero-image img {
+    width: 250px !important;
+    height: auto;
+    margin: 2rem;
+  }
+
+}
+
+/*-------------------------- Hero End --------------------------*/
