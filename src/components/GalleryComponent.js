@@ -17,22 +17,22 @@ const GalleryComponent = () => {
               </div>
               <div className="organized-image image col-lg-9 col-md-8 text-lg-start text-md-start text-center">
                 <img
-                  src="../logo/1.jpeg"
+                  src="./assets/logo/1.jpeg"
                   className="ms-1 col-5 image-iysa"
                   alt="gallery"
                 />
                 <img
-                  src="../logo/2.jpeg"
+                  src="./assets/logo/2.jpeg"
                   className="ms-1 col-5 image-iysa"
                   alt="gallery"
                 />
                 <img
-                  src="../logo/3.jpeg"
+                  src="./assets/logo/3.jpeg"
                   className="ms-1 col-5 image-iysa"
                   alt="gallery"
                 />
                 <img
-                  src="../logo/4.jpeg"
+                  src="./assets/logo/4.jpeg"
                   className="ms-1 col-5 image-iysa"
                   alt="gallery"
                 />

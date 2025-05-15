@@ -58,7 +58,7 @@ const Program = () => {
                   <div className="service-details" data-wow-delay=".1s">
                     <div className="service-head">
                       <img
-                        src="./logo/WRCSO.png"
+                        src="./assets/logo/WRCSO.png"
                         className="img-fluid"
                         alt="logo"
                       ></img>
